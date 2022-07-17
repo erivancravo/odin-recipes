@@ -1,0 +1,36 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    height: 500px;
+    width: 600px;
+}
+
+div.lil-boxes {
+    width: 150px;
+    height: 60px;
+    text-indent: 25px;
+}
+
+.header,
+.lil-boxes {
+    color: white;
+    background-color: red;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.first {
+    text-indent: 20px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+}
+
+.align-margin {
+    margin: 20px;
+}

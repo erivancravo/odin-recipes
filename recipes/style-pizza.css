@@ -1,0 +1,41 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: rgb(238, 163, 23);
+}
+
+#header {
+    margin: auto;
+    height: 500px;
+    width: 500px;
+}
+
+#header,
+.white-box {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black
+}
+
+.white-box.description {
+    height: 160px;
+    width: 500px;   
+}
+
+.white-box.description p {
+    margin: 20px;
+}
+
+.white-box.ingredients {
+    height: 425px;
+    width: 500px;
+}
+
+.white-box.steps {
+    height: 800px;
+    width: 500px;
+}
+
+
